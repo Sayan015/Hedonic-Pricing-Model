@@ -1,5 +1,5 @@
 # Hedonic-Pricing-Model
-Overview
+## Overview
 
 This repository implements a spatial hedonic pricing framework to quantify how environmental and neighbourhood attributes are capitalized into urban housing prices. Grounded in environmental and urban economics, the analysis follows the canonical Hedonic Pricing Method (HPM) and extends it using spatial econometric models to explicitly address spatial dependence in housing markets.
 
@@ -7,7 +7,7 @@ Housing prices are treated as outcomes of bundled structural, neighbourhood, and
 
 The workflow moves from baseline econometric estimation to increasingly sophisticated spatial models, ensuring statistical rigor and economic interpretability.
 
-Methodological Workflow
+## Methodological Workflow
 1. Base Hedonic Model (OLS)
 
 We begin with a standard hedonic price regression estimated via Ordinary Least Squares (OLS):
@@ -82,7 +82,7 @@ Complements global spatial econometric models
 
 GWR results are used for exploratory insights rather than causal claims.
 
-Key Contributions
+## Key Contributions
 
 Integrates classical hedonic theory with modern spatial econometrics
 
